@@ -6,8 +6,7 @@ Zimeng Ding
    https://www.themoviedb.org/movie?language=en-US
   Get the title and id of each movie and store them in a json file.
   
-- Fetch the title from the json file and request the detailed information of each movie with cache by using the API 
-  offered by “the movie DB”
+- Request the detailed information of each movie with cache by using the “the movie DB” API
   https://www.themoviedb.org/documentation/api?language=en-US
   
 - data_prep.py : scrape pages, make API requests with cache and output data in csv files
@@ -24,5 +23,9 @@ Zimeng Ding
   data process function: process_command()
  
 - final_proj_test.py : tests are only based on current cache files and database. if you update the data, tests might fail
+
+- help.txt : command description
+
+
  
   
