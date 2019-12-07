@@ -1,0 +1,161 @@
+budget,movieDB_id,popularity,revenue,runtime,status,title,vote_average,vote_count,number_of_genres,genre1_id,number_of_production_countries,production_country1_name,number_of_spoken_languages,spoken_language1_name
+0,330457,338.016,742060467,104,Released,Frozen II,7.1,640,3,16,1,United States of America,1,English
+159000000,398978,296.046,607420,209,Released,The Irishman,8.2,913,3,80,1,United States of America,4,English
+95000000,466272,159.79,371950710,162,Released,Once Upon a Time… in Hollywood,7.5,2984,3,18,3,China,3,English
+0,645541,137.058,0,76,Released,Ellipse,3.5,17,1,878,1,United States of America,1,English
+79000000,474350,161.531,447554518,169,Released,It Chapter Two,6.8,2282,2,27,2,Canada,1,English
+185000000,290859,138.95,233685077,128,Released,Terminator: Dark Fate,6.2,757,2,28,2,China,2,English
+55000000,475557,172.144,1016599593,122,Released,Joker,8.4,6162,3,80,1,United States of America,1,English
+20000000,540901,105.297,0,107,Released,Hustlers,6.2,570,3,35,1,United States of America,3,English
+50000000,522938,141.175,87041796,89,Released,Rambo: Last Blood,5.9,634,3,28,2,China,2,English
+120000000,920,75.172,461983149,117,Released,Cars,6.7,8397,4,16,1,United States of America,4,English
+40000000,546554,99.841,0,130,Released,Knives Out,8.0,216,3,9648,1,United States of America,2,Español
+160000000,429617,73.107,1131450163,129,Released,Spider-Man: Far from Home,7.6,5233,3,28,1,United States of America,3,Český
+183000000,420817,83.464,1047612394,128,Released,Aladdin,7.0,4254,5,12,1,United States of America,1,English
+11363000,496243,88.444,114822703,132,Released,Parasite,8.5,1584,2,18,1,South Korea,1,한국어/조선말
+200000000,384018,87.384,760098996,137,Released,Fast & Furious Presents: Hobbs & Shaw,6.6,2067,3,28,1,United States of America,3,English
+260000000,420818,75.701,1649676757,118,Released,The Lion King,7.1,3775,2,12,1,United States of America,1,English
+40000000,423204,82.682,133365452,121,Released,Angel Has Fallen,5.8,743,1,28,1,United States of America,1,English
+75000000,431580,80.431,111615070,92,Released,Abominable,7.0,213,4,16,2,China,1,English
+6000000,567609,70.037,57384179,95,Released,Ready or Not,6.8,471,4,27,1,United States of America,1,English
+0,101411,20.72,0,105,Released,23-F: la película,5.5,14,2,36,1,Spain,1,Español
+0,330457,338.016,742060467,104,Released,Frozen II,7.1,640,3,16,1,United States of America,1,English
+159000000,398978,296.046,607420,209,Released,The Irishman,8.2,913,3,80,1,United States of America,4,English
+95000000,466272,159.79,371950710,162,Released,Once Upon a Time… in Hollywood,7.5,2984,3,18,3,China,3,English
+0,645541,137.058,0,76,Released,Ellipse,3.5,17,1,878,1,United States of America,1,English
+79000000,474350,161.531,447554518,169,Released,It Chapter Two,6.8,2282,2,27,2,Canada,1,English
+185000000,290859,138.95,233685077,128,Released,Terminator: Dark Fate,6.2,757,2,28,2,China,2,English
+55000000,475557,172.144,1016599593,122,Released,Joker,8.4,6162,3,80,1,United States of America,1,English
+20000000,540901,105.297,0,107,Released,Hustlers,6.2,570,3,35,1,United States of America,3,English
+50000000,522938,141.175,87041796,89,Released,Rambo: Last Blood,5.9,634,3,28,2,China,2,English
+120000000,920,75.172,461983149,117,Released,Cars,6.7,8397,4,16,1,United States of America,4,English
+40000000,546554,99.841,0,130,Released,Knives Out,8.0,216,3,9648,1,United States of America,2,Español
+160000000,429617,73.107,1131450163,129,Released,Spider-Man: Far from Home,7.6,5233,3,28,1,United States of America,3,Český
+183000000,420817,83.464,1047612394,128,Released,Aladdin,7.0,4254,5,12,1,United States of America,1,English
+11363000,496243,88.444,114822703,132,Released,Parasite,8.5,1584,2,18,1,South Korea,1,한국어/조선말
+200000000,384018,87.384,760098996,137,Released,Fast & Furious Presents: Hobbs & Shaw,6.6,2067,3,28,1,United States of America,3,English
+260000000,420818,75.701,1649676757,118,Released,The Lion King,7.1,3775,2,12,1,United States of America,1,English
+40000000,423204,82.682,133365452,121,Released,Angel Has Fallen,5.8,743,1,28,1,United States of America,1,English
+75000000,431580,80.431,111615070,92,Released,Abominable,7.0,213,4,16,2,China,1,English
+6000000,567609,70.037,57384179,95,Released,Ready or Not,6.8,471,4,27,1,United States of America,1,English
+0,101411,20.72,0,105,Released,23-F: la película,5.5,14,2,36,1,Spain,1,Español
+300000000,299536,79.135,2046239637,149,Released,Avengers: Infinity War,8.3,15951,3,12,1,United States of America,1,English
+0,568012,80.256,0,101,Released,One Piece: Stampede,7.3,99,3,16,1,Japan,1,日本語
+52000000,449924,146.987,0,,Post Production,Ip Man 4: The Finale,0.0,0,3,28,1,Hong Kong,3,English
+0,540247,79.031,0,76,Released,Jurassic Galaxy,3.0,20,3,878,1,United States of America,1,English
+6000000,559969,58.145,0,123,Released,El Camino: A Breaking Bad Movie,7.0,1587,3,80,1,United States of America,1,English
+150000000,109445,51.745,1274219009,102,Released,Frozen,7.3,10645,3,16,1,United States of America,1,English
+0,596302,37.3,0,100,Released,Crayon Shin-chan: Honeymoon Hurricane ~The Lost Hiroshi~,5.5,2,4,16,0,,1,日本語
+0,486589,50.5,5311167,92,Released,Red Shoes and the Seven Dwarfs,5.9,52,2,16,1,South Korea,1,English
+97600000,359724,58.657,52437000,152,Released,Ford v Ferrari,7.9,519,3,18,1,United States of America,1,English
+0,181812,59.041,0,142,Post Production,Star Wars: The Rise of Skywalker,0.0,0,3,28,3,Jordan,1,English
+33000000,807,37.396,327311859,127,Released,Se7en,8.3,11650,3,80,1,United States of America,1,English
+0,571346,22.303,0,88,Released,American Kamasutra,4.8,16,2,18,0,,1,English
+55000000,458156,52.315,323398440,131,Released,John Wick: Chapter 3 - Parabellum,7.1,3347,3,28,1,United States of America,8,العربية
+11000000,11,56.146,775398007,121,Released,Star Wars,8.2,12350,3,12,1,United States of America,1,English
+52000000,524,48.239,116112375,179,Released,Casino,8.0,2746,1,80,2,France,1,English
+90000000,512200,155.936,0,123,Released,Jumanji: The Next Level,7.4,57,4,28,1,United States of America,1,English
+12000000,480105,36.875,0,90,Released,47 Meters Down: Uncaged,4.7,297,3,53,2,United States of America,1,English
+138000000,453405,68.736,59552372,117,Released,Gemini Man,5.7,763,2,28,2,China,3,English
+160000000,27205,45.258,825532764,148,Released,Inception,8.3,23813,3,28,2,United Kingdom,2,English
+0,566057,44.062,0,55,Released,Lupinranger VS Patranger VS Kyuranger,5.5,2,4,28,1,Japan,1,日本語
+85000000,420809,48.948,385990275,118,Released,Maleficent: Mistress of Evil,7.2,1005,3,14,1,United States of America,1,English
+0,458897,45.417,0,118,Released,Charlie's Angels,6.2,172,3,28,1,United States of America,1,English
+220000000,24428,45.086,1519557910,143,Released,The Avengers,7.7,21013,3,878,1,United States of America,3,English
+185000000,155,35.226,1004558444,152,Released,The Dark Knight,8.4,20368,4,18,2,United Kingdom,2,English
+356000000,299534,48.698,2797800564,181,Released,Avengers: Endgame,8.3,10399,3,12,1,United States of America,2,English
+250000000,122917,56.415,956019788,144,Released,The Hobbit: The Battle of the Five Armies,7.3,8995,3,28,2,New Zealand,1,English
+0,508965,51.625,0,97,Released,Klaus,8.4,414,4,16,1,Spain,1,English
+200000000,320288,46.754,245000000,114,Released,Dark Phoenix,6.1,2516,3,878,1,United States of America,1,English
+34000000,484641,34.657,30041730,119,Released,Anna,6.4,661,2,53,1,France,4,Deutsch
+129000000,166428,38.007,517526875,104,Released,How to Train Your Dragon: The Hidden World,7.7,2782,3,16,1,United States of America,1,English
+175000000,301528,43.547,519802847,100,Released,Toy Story 4,7.6,3128,5,12,1,United States of America,1,English
+20000000,535544,57.011,157829576,122,Released,Downton Abbey,7.1,249,1,18,1,United Kingdom,1,English
+100000000,522162,38.932,104104788,138,Released,Midway,6.6,140,4,10752,2,China,1,English
+165000000,157336,39.595,675120017,169,Released,Interstellar,8.3,20171,3,12,2,United Kingdom,1,English
+0,611207,27.743,0,92,Released,The Knight Before Christmas,6.6,261,2,10749,1,United States of America,1,English
+20000000,245891,51.564,88761661,101,Released,John Wick,7.2,11277,2,28,2,China,3,Magyar
+170000000,399579,39.748,404852543,122,Released,Alita: Battle Angel,6.9,3846,4,28,1,United States of America,2,English
+11000000,348,42.234,104931801,117,Released,Alien,8.1,8201,2,27,2,United States of America,2,English
+180000000,284053,44.698,853977126,131,Released,Thor: Ragnarok,7.5,12580,4,28,1,United States of America,1,English
+90000000,324857,44.995,375450417,117,Released,Spider-Man: Into the Spider-Verse,8.4,5751,5,28,1,United States of America,2,English
+155000000,87101,38.895,440603537,126,Released,Terminator Genisys,5.9,5654,4,878,1,United States of America,1,English
+152000000,299537,41.86,1128274794,124,Released,Captain Marvel,7.0,7785,3,28,1,United States of America,1,English
+125000000,671,52.767,976475550,152,Released,Harry Potter and the Philosopher's Stone,7.8,15165,3,12,2,United Kingdom,1,English
+0,528888,37.493,0,118,Released,Dolemite Is My Name,7.2,164,3,18,1,United States of America,1,English
+170000000,118340,42.016,772776600,121,Released,Guardians of the Galaxy,7.9,19251,3,28,1,United States of America,1,English
+8500000,71805,35.272,15024232,92,Released,Shipwrecked,6.5,22,2,12,3,United States of America,2,English
+200000000,283995,33.108,863756051,137,Released,Guardians of the Galaxy Vol. 2,7.7,13610,4,28,1,United States of America,1,English
+170000000,373571,37.8,385900138,132,Released,Godzilla: King of the Monsters,6.2,1799,2,878,3,China,3,普通话
+0,639609,21.137,0,94,Released,Holiday Rush,6.0,34,3,18,1,United States of America,1,English
+200000000,181808,46.509,1332459537,152,Released,Star Wars: The Last Jedi,7.0,9289,4,14,1,United States of America,1,English
+140000000,22,38.356,655011224,143,Released,Pirates of the Caribbean: The Curse of the Black Pearl,7.7,13297,3,12,1,United States of America,1,English
+80000000,412117,34.523,155152550,86,Released,The Secret Life of Pets 2,6.6,870,4,12,1,United States of America,1,English
+0,604165,26.307,0,,Released,Kamen Rider Zi-O the Movie: Over Quartzer!,6.8,11,3,28,1,Japan,1,日本語
+9000000,238636,34.412,111928365,104,Released,The Purge: Anarchy,6.6,4065,2,27,2,France,1,English
+30000000,549053,39.656,0,102,Released,Last Christmas,7.0,113,3,35,2,United Kingdom,1,English
+23695000,508664,34.967,0,,Released,Danger Close: The Battle of Long Tan,6.4,15,4,10752,1,Australia,1,English
+49000000,499701,30.53,116826172,102,Released,Dora and the Lost City of Gold,6.4,365,3,12,2,United States of America,2,Español
+110000000,383498,46.265,741547413,121,Released,Deadpool 2,7.5,9943,3,28,1,United States of America,1,English
+0,46853,34.034,0,94,Released,Playing with Love,5.1,34,1,18,2,Italy,1,Italiano
+9000000,530385,30.548,41084036,148,Released,Midsommar,7.1,1081,3,27,3,United States of America,2,English
+8000000,680,36.387,213928762,154,Released,Pulp Fiction,8.5,16783,2,53,1,United States of America,3,English
+80000000,419704,80.812,127130685,124,Released,Ad Astra,6.1,1011,1,878,3,Brazil,1,English
+97000000,263115,33.168,616801808,137,Released,Logan,7.8,13152,3,28,1,United States of America,2,English
+0,608812,31.403,0,3,Released,Handjob Cabin,10.0,2,2,27,1,United States of America,1,English
+100000000,522162,38.932,104104788,138,Released,Midway,6.6,140,4,10752,2,China,1,English
+93000000,120,35.083,871368364,178,Released,The Lord of the Rings: The Fellowship of the Ring,8.3,15584,3,12,2,New Zealand,1,English
+150000000,10195,34.248,449326618,115,Released,Thor,6.7,13744,3,12,1,United States of America,1,English
+160000000,297802,29.421,1143689193,144,Released,Aquaman,6.8,7441,3,28,2,Australia,1,English
+180000000,259316,20.575,809342332,133,Released,Fantastic Beasts and Where to Find Them,7.4,12958,3,12,1,United Kingdom,1,English
+28000000,812,34.174,504050219,90,Released,Aladdin,7.6,7130,5,16,1,United States of America,1,English
+94000000,122,34.747,1118888979,201,Released,The Lord of the Rings: The Return of the King,8.4,14192,3,12,2,New Zealand,1,English
+150000000,269149,36.029,1023784195,109,Released,Zootopia,7.7,10690,4,16,1,United States of America,1,English
+80000000,287947,35.638,363533271,132,Released,Shazam!,7.0,3829,3,28,1,United States of America,1,English
+0,638507,36.637,0,22,Released,How to Train Your Dragon: Homecoming,9.0,20,5,16,1,United States of America,1,English
+36000000,332562,36.789,433888866,136,Released,A Star Is Born,7.5,6888,3,18,1,United States of America,1,English
+237000000,19995,28.784,2787965087,162,Released,Avatar,7.4,19810,4,28,2,United States of America,2,English
+200000000,284054,44.858,1346739107,134,Released,Black Panther,7.4,13723,4,28,1,United States of America,4,English
+34000000,198663,40.643,348319861,113,Released,The Maze Runner,7.1,11271,4,28,1,United States of America,1,English
+245000000,206647,42.865,880674609,148,Released,Spectre,6.4,7028,3,28,2,United Kingdom,5,Français
+125000000,12445,36.36,1342000000,130,Released,Harry Potter and the Deathly Hallows: Part 2,8.1,12496,2,14,2,United Kingdom,2,Español
+0,582083,23.028,0,50,Released,Kamen Rider Build NEW WORLD: Kamen Rider Grease,0.0,0,3,28,1,Japan,1,日本語
+20000000,521777,25.743,72457330,89,Released,Good Boys,6.6,458,1,35,1,United States of America,1,English
+58000000,293660,28.586,783100000,108,Released,Deadpool,7.6,21310,3,28,1,United States of America,1,English
+0,516700,46.853,0,119,Released,Gundala,6.8,18,3,28,1,Indonesia,1,Bahasa indonesia
+175000000,150540,34.624,857611174,95,Released,Inside Out,7.9,13676,4,18,1,United States of America,1,English
+0,645541,137.058,0,76,Released,Ellipse,3.5,17,1,878,1,United States of America,1,English
+180000000,102651,31.189,758539785,97,Released,Maleficent,7.1,8985,5,14,1,United States of America,1,English
+150000000,447404,28.191,431605346,105,Released,Pokémon Detective Pikachu,6.9,2832,3,28,2,Japan,1,English
+170000000,399579,39.748,404852543,122,Released,Alita: Battle Angel,6.9,3846,4,28,1,United States of America,2,English
+175000000,315635,49.304,880166924,133,Released,Spider-Man: Homecoming,7.4,12973,4,28,1,United States of America,1,English
+150000000,272,32.383,374218673,140,Released,Batman Begins,7.6,13165,3,28,2,United Kingdom,3,English
+19000000,129,29.435,274925095,125,Released,Spirited Away,8.5,8129,3,16,1,Japan,1,日本語
+6000000,238,30.18,245066411,175,Released,The Godfather,8.6,11011,2,18,1,United States of America,3,English
+240000000,271110,33.713,1153304495,147,Released,Captain America: Civil War,7.4,15031,3,12,1,United States of America,4,Română
+170000000,76338,30.688,644571402,112,Released,Thor: The Dark World,6.6,10957,3,28,1,United States of America,1,English
+63000000,603,33.946,463517383,136,Released,The Matrix,8.1,15575,2,28,2,Australia,1,English
+200000000,17979,35.129,325233863,96,Released,A Christmas Carol,6.8,2700,2,16,1,United States of America,1,English
+100000000,428078,29.987,104236467,129,Released,Mortal Engines,6.1,2318,2,12,2,New Zealand,1,English
+102000000,280,31.424,520000000,137,Released,Terminator 2: Judgment Day,7.9,7308,3,28,1,United States of America,2,English
+25000000,278,33.1,28341469,142,Released,The Shawshank Redemption,8.7,14379,2,18,1,United States of America,1,English
+0,606117,37.418,0,93,Released,A Cinderella Story: Christmas Wish,6.9,93,4,35,1,United States of America,3,English
+116000000,335983,35.246,855013954,112,Released,Venom,6.6,7513,2,878,2,China,3,普通话
+165000000,177572,31.766,657818612,102,Released,Big Hero 6,7.8,10817,5,12,1,United States of America,1,English
+100000000,672,33.033,876688482,161,Released,Harry Potter and the Chamber of Secrets,7.7,12820,2,12,3,Germany,1,English
+13000000,240,22.871,102600000,202,Released,The Godfather: Part II,8.5,6464,2,18,1,United States of America,4,English
+20000000,450465,28.101,246941965,129,Released,Glass,6.6,4246,3,53,1,United States of America,2,English
+49000000,428045,22.034,0,121,Released,The Mystery of the Dragon’s Seal,4.8,30,2,12,2,China,3,普通话
+150000000,335984,32.678,259239658,163,Released,Blade Runner 2049,7.4,7386,2,878,4,Canada,2,English
+0,537061,34.668,0,82,Released,Steven Universe: The Movie,8.8,86,6,16,1,United States of America,1,English
+26000000,238615,21.139,30523226,116,Released,Self/less,6.3,1938,3,878,1,United States of America,1,English
+170000000,351286,32.182,1303459585,129,Released,Jurassic World: Fallen Kingdom,6.5,6623,3,28,1,United States of America,2,English
+48000000,338967,29.881,32000000,99,Released,Zombieland: Double Tap,7.2,557,3,27,1,United States of America,1,English
+0,504949,22.734,0,140,Released,The King,7.2,637,3,18,2,Australia,3,English
+0,487616,16.128,0,107,Released,Curiosa,6.0,26,2,36,1,France,1,Français
+113000000,1895,28.789,850000000,140,Released,Star Wars: Episode III - Revenge of the Sith,7.3,8077,3,878,1,United States of America,1,English
+175000000,404368,30.66,529221154,112,Released,Ralph Breaks the Internet,7.2,3461,4,10751,1,United States of America,1,English
+108000000,286217,29.096,630161890,141,Released,The Martian,7.7,12959,3,18,2,United Kingdom,2,English
+0,501170,35.015,0,152,Released,Doctor Sleep,7.2,535,1,27,1,United States of America,1,English
+52000000,424694,31.951,894027543,135,Released,Bohemian Rhapsody,8.0,9307,2,18,2,United Kingdom,1,English
+135000000,424783,30.052,465895025,114,Released,Bumblebee,6.5,3086,3,28,1,United States of America,1,English
