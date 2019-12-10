@@ -43,8 +43,8 @@ pie
 		*production_country
 		*spoken_language
 	command example:
-		piechart [x]
-		piechart genre
+		pie [x]
+		pie genre
 		[default: genre]
 bar
 	Description: use bar charts to represent the categorical attributes of movies.
