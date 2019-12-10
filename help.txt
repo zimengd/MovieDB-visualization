@@ -1,0 +1,61 @@
+
+Commands available:
+
+update
+	Description: update data by scraping pages and making API requests again, please delete the old cache files before using this command.
+
+set 
+	Description: set up the database
+
+help
+	Description: print command menu.
+
+exit
+	Description: exit the program.
+
+histogram
+	Description: use histogram to represent the distribution of a certain numerical attribute of movies.
+	options:
+		*vote_count
+		*number_of_genres
+		*number_of_production_countries
+	command example:
+		histogram [x]
+		histogram vote_count
+		[default: vote_count]
+	
+scatter
+	Description: use scatter charts to represent the relationship between two numerical attributes of movies.
+	options:
+		*budget
+		*revenue
+		*popularity		
+		*vote_average
+	command example:
+		scatter [x] [y]
+		scatter budget revenue
+		scatter revenue budget
+		[default: budget revenue]
+pie
+	Description: use piechart to represent the illustrate numerical proportion of a certain attribute of movies.
+	options:
+		*genre
+		*production_country
+		*spoken_language
+	command example:
+		pie [x]
+		pie genre
+		[default: genre]
+bar
+	Description: use bar charts to represent the categorical attributes of movies.
+	options:
+		*genre
+		*production_country
+		*spoken_language
+	command example:
+		bar [x]
+		bar genre
+		[default: genre]
+
+	
+
