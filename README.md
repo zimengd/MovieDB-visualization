@@ -2,7 +2,7 @@
 Zimeng Ding
 - To run the program, you only need to run user_interac.py, and follow the command menu or you could refer commands in help.txt.
 
-- Scrape and crawl the first 8 page under the “Movie” tab. And here is the link.
+- Scrape and crawl the first 8 pages under the “Movie” tab. And here is the link.
    - https://www.themoviedb.org/movie?language=en-US
    - Get the title and id of each movie and store them in a json file.
   
