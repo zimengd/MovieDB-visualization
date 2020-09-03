@@ -1,4 +1,4 @@
-# SI507_final_project
+# MovieDB-visualization
 Zimeng Ding
 - To run the program, you only need to run user_interac.py, and follow the command menu or you could refer commands in help.txt.
 
